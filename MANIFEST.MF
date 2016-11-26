@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.package1.Login6
+Class-Path: . lib/ojdbc14.jar lib/poi-2.5.1.jar lib/jbcl.jar lib/JTattoo.jar lib/liquidlnf.jar
+Created-By: Andrew 
